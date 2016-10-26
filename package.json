@@ -1,5 +1,5 @@
 {
-    "Name": "MeanMapsApp",
+    "name": "MeanMapsApp",
     "version": "1.0.0",
     "description": "Demo app showing the use of Google Maps in MEAN Apps",
     "main": "server.js",
